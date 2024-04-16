@@ -19,8 +19,8 @@ function wishMe(){
     speak("Good Morning Boss...")
    }
 
-   if(hour=>12 &&  hour<17){
-    speak("Good Afternoon Master...")
+   if(hour >= 12 && hour < 17){
+    speak("Good Afternoon master how are you chuchu")
    }
 
    else{
